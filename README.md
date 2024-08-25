@@ -32,3 +32,6 @@ This analysis is to evaluate the tool created to help the Alphabet Soup foundati
 My final model was able to achieve 79% accuracy, which is significantly better than the original model, which could only achieve 72% accuracy.  I was able to do this by adding layers, changing the activation functions on my layers, and editing the feature variables and removing a couple of variables.  
 
 If I was looking for an alternative to the neural network, I might look at a decision tree model, since that uses true/false questions, which we used in our neural network.  And since this a non-linear relationship in our data, a decision tree would help us map this relationship and trace the decision logic through branches.  You can also do pruning to help clean up the model, like how we cleaned up the dataset before the final model was successful.  
+
+## Help Received
+I used Xpert learning for help with my coding.
